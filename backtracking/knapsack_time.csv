@@ -1,0 +1,5 @@
+Method,Time
+brute_force_zero_one,0.0003037452697753906
+brute_force_fractional,0.002988100051879883
+greedy_fractional,1.0013580322265625e-05
+dynamic,0.00015091896057128906
